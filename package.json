@@ -1,0 +1,24 @@
+{
+  "name": "eod-dashboard",
+  "version": "1.0.0",
+  "description": "Daily branch monitoring of branch key indicators performance",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve",
+    "dev": "webpack --mode development"
+  },
+  "keywords": [
+    "dashboard",
+    "monitoring",
+    "branch",
+    "performance"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {}
+}
